@@ -3,8 +3,8 @@ layout: page
 title: About
 ---
 
-Give people something to read and get to know you. Here's my attempt: this is [Mu-An](http://muan.co), a designer developer who lives in London at the moment.
+并不是有个人跑来找我，劝我"你跑步吧"，我就沿着马路开始跑步。也没有什么人跑来找我，跟我说"你当小说家吧"，我就开始写小说。
 
-Tweet at [@muanchiou](http://twitter.com/muanchiou), read my code on [GitHub](http://github.com/muan), see my designs on [Dribbble](http://dribbble.com/muan), find my CV on [LinkedIn](http://uk.linkedin.com/in/muanchiou).
+突然有一天，我出于喜欢开始写小说。又有一天，我出于喜欢开始在马路上跑步。
 
-This theme is made by me. You have a nice day. ♥
+不拘什么，按照喜欢的方式做喜欢的事，我就是这样生活的。纵然受到别人阻止，遭到恶意非难，我都不曾改变。这样一个人，又能向谁索求什么呢？

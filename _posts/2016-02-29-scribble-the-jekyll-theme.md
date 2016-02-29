@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Scribble, a Jekyll theme
-date: 2013-05-06 16:27:31
+date: 2016-02-29 16:25:31
 disqus: y
 ---
 
