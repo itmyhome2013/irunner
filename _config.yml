@@ -12,7 +12,7 @@ links:
     external:     false
   - name:         About
     url:          /about
-highlighter:      pygments
+highlighter:      rouge
 permalink:        pretty
 markdown:         redcarpet
 redcarpet:
