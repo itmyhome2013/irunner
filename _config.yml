@@ -1,0 +1,20 @@
+title:            只要你不停下来，跑步或人生都没有失败
+description:      A jekyll theme. Because I scribble.
+url:              
+signoff:          # Your name.
+disqus_shortname: hello world
+facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
+google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
+
+links:
+  - name:         Home
+    url:          /
+    external:     false
+  - name:         About
+    url:          /about
+highlighter:      pygments
+permalink:        pretty
+markdown:         redcarpet
+redcarpet:
+  extensions:
+    - smart
