@@ -1,6 +1,6 @@
 title:            只要你不停下来，跑步或人生都没有失败
 description:      A jekyll theme. Because I scribble.
-url:              /
+url:              http://blog.itmyhome.com/
 signoff:          # Your name.
 disqus_shortname: hello world
 facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
