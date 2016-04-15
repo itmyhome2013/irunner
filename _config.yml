@@ -12,6 +12,9 @@ links:
     external:     false
   - name:         About
     url:          /about
+  - name:         Weibo
+    url:          http://weibo.com/itmyhome
+    external:     true
 highlighter:      pygments
 permalink:        pretty
 markdown:         redcarpet
